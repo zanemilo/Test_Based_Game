@@ -14,5 +14,5 @@ A text-based adventure game where the player explores a series of interconnected
 
 1. **Clone the repository**:
 
-   git clone https://github.com/yourusername/text-adventure-game.git
-   cd text-adventure-game
+   git clone https://github.com/zanemilo/Text_Based_Game
+   cd Text_Based_Game
