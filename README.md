@@ -10,9 +10,3 @@ A text-based adventure game where the player explores a series of interconnected
 - Encounter a wraith that can end the game
 - Win by collecting all artifacts
 
-## Installation
-
-1. **Clone the repository**:
-
-   git clone https://github.com/zanemilo/Text_Based_Game
-   cd Text_Based_Game
